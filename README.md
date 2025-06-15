@@ -1,4 +1,4 @@
-# 🌍 Google Earth Engine Portfolio - [Your Name]
+# 🌍 Google Earth Engine Portfolio
 
 This repository contains my hands-on geospatial analysis projects using **Google Earth Engine** (GEE), built during my M.Tech in Geoinformatics.
 
