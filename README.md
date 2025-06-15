@@ -18,5 +18,3 @@ This repository contains my hands-on geospatial analysis projects using **Google
 | [Forest Monitoring App](./04_forest-monitoring-app) | Interactive web app for NDVI monitoring | Sentinel |
 | [Drought Analysis](./05_modis-drought-analysis) | Rainfall anomaly using MODIS & CHIRPS | MODIS, CHIRPS |
 
-## 📄 License
-[MIT License](LICENSE)
